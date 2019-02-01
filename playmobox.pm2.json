@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name"       : "YL3JYMm",
+    "script"     : "yarn",
+    "interpreter": "bash",
+    "args"       : "start --prefix /home/app/my-playmobox"
+  }]
+}
